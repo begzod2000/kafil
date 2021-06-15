@@ -69,7 +69,7 @@ export default function Footer() {
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="https://www.creative-tim.com/presentation?ref=nr-footer"
                       >
-                        About Us
+                       Biz haqimizda
                       </a>
                     </li>
                     <li>
@@ -77,7 +77,7 @@ export default function Footer() {
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="https://blog.creative-tim.com?ref=nr-footer"
                       >
-                        Blog
+                       Kompaniya haqida
                       </a>
                     </li>
                     <li>
@@ -85,7 +85,7 @@ export default function Footer() {
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="https://www.github.com/creativetimofficial?ref=nr-footer"
                       >
-                        Github
+                        Hizmatlar
                       </a>
                     </li>
                     <li>
@@ -93,7 +93,7 @@ export default function Footer() {
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href="https://www.creative-tim.com/bootstrap-themes/free?ref=nr-footer"
                       >
-                        Free Products
+                        Yangiliklar
                       </a>
                     </li>
                   </ul>
